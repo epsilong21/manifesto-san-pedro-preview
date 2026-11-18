@@ -1,0 +1,5 @@
+:HL["/manifesto-san-pedro-preview/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"san-pedro-penitente","h":64,"c":"$Q3"}]]
+1:[["children",{"s":"conceptos","c":"$Q2"}]]
+0:{"b":"KUmtXDVzZBYUxAsKud3LW","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
